@@ -92,7 +92,7 @@ photosynthetic phosphorylation	GO_0009777
 physical association	MI_0915
 positive epistasis	MI_1272
 proline isomerization reaction	MI_1237
-promoting,	INO_0000117
+promoting	INO_0000117
 protein amino acid autophosphorylation	GO_0046777
 protein amino acid myristoylation	GO_0018377
 protein amino acid phosphorylation	GO_0006468
