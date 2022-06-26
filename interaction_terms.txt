@@ -1,3 +1,4 @@
+term  type
 CTD domain phosphorylation of RNA polymerase II	GO_0070816
 DNA damage induced protein phosphorylation	GO_0006975
 I-kappaB phosphorylation	GO_0007252
